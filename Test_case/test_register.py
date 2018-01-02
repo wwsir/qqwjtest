@@ -1,6 +1,8 @@
 #防止中文乱码
 #coding=utf-8
 from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver import ActionChains
 
 #加载unittest模块
 import unittest
@@ -19,14 +21,18 @@ class BaiduYun(unittest.TestCase):
         browser=self.browser
         browser.get(self.base_url+'/')
         u"""立即注册百度账号"""
-        browser.find_element_by_class_name("lb").click()
+        time.sleep(2)
+        loginbutton = browser.find_element_by_name("tj_login")
+        ActionChains(browser).move_to_element(loginbutton).perform().click()
+
+        print(loginbutton)
         time.sleep(2)
         browser.find_element_by_css_selector("[title='用户名登录'']").click()
         browser.find_element_by_id("TANGRAM__PSP_10__userName").send_keys("13485069690")
 
 
     def tearDown(self):
-        self.browser.quit()
+        #self.browser.quit()
         self.assertEqual([],self.verficationErrors)
 if __name__=="__main__":
     unittest.main()

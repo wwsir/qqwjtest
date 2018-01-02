@@ -9,6 +9,6 @@ if __name__=="__main__":
     report_name=report_dir+'/'+now+'result.html'
 
     with open(report_name,'wb')as f:
-        runner=HTMLTestRunner(stream=f,title="Test Report",description="test baidu")
+        runner=HTMLTestRunner(stream=f,title="Test Report",description="This test suite is to test web project, Hope we can accumulate enough exprience in this projet.")
         runner.run(discover)
     f.close()
