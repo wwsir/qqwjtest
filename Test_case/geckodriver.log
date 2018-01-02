@@ -1,0 +1,202 @@
+1514857411079	geckodriver	INFO	geckodriver 0.19.1
+1514857411101	geckodriver	INFO	Listening on 127.0.0.1:51724
+1514857413183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wenhuifu\\AppData\\Local\\Temp\\rust_mozprofile.QDK8yPL4m8Q8"
+1514857414762	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514857420541	Marionette	INFO	Listening on port 51731
+1514857420622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514857420679	Marionette	DEBUG	Register listener.js for window 4294967297
+1514857420698	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514857421601	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514857421602	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514857422163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514857422268	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1514857515637	geckodriver	INFO	geckodriver 0.19.1
+1514857515637	geckodriver	INFO	Listening on 127.0.0.1:51897
+1514857517692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wenhuifu\\AppData\\Local\\Temp\\rust_mozprofile.VoqNQ38lqHDB"
+1514857519309	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1514857522906	Marionette	INFO	Listening on port 51903
+1514857523040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514857523097	Marionette	DEBUG	Register listener.js for window 4294967297
+1514857523123	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514857523885	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514857523886	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514857524488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514857524595	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[GFX1-]: Could not get a DXGI adapter
+1514857617837	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript erUnable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 17336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+s.vrpath
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 58ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: 
+[Parent 11168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/memoryActor11
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 74: TypeError: this.tabTarget is null
+[Child 17524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+G	Received DOM event "pageshow" for "https://www.baidu.com/"
+1514861411816	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13960, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/chrome/common/ipc_channel_win.cc, line 346
+1514861304653	Marionette	INFO	Listening on port 56158
+1514861304922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514861304978	Marionette	DEBUG	Register listener.js for window 4294967297
+1514861304996	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514861305602	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514861305625	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514861306254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514861306386	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1514861411816	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+ome/common/ipc_channel_win.cc, line 346
+[Child 6728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514861823980	Marionette	INFO	Listening on port 56719
+1514861824198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514861824255	Marionette	DEBUG	Register listener.js for window 4294967297
+1514861824271	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514861824924	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514861824924	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514861825488	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514861825599	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+1514862136629	geckodriver	INFO	geckodriver 0.19.1
+1514862136651	geckodriver	INFO	Listening on 127.0.0.1:57207
+1514862138702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wenhuifu\\AppData\\Local\\Temp\\rust_mozprofile.b9tiPNRGwnxT"
+1514862140404	Marionette	INFO	Enabled via --marionette
+1514862143713	Marionette	INFO	Listening on port 57215
+1514862144017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514862144077	Marionette	DEBUG	Register listener.js for window 4294967297
+1514862144095	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514862145031	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514862145032	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514862145576	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514862145683	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+1514862207425	geckodriver	INFO	geckodriver 0.19.1
+1514862207425	geckodriver	INFO	Listening on 127.0.0.1:57298
+1514862209483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wenhuifu\\AppData\\Local\\Temp\\rust_mozprofile.2rKMEAqyzEyi"
+1514862210514	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: Could not get a DXGI adapter
+1514862214082	Marionette	INFO	Listening on port 57304
+1514862214833	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514862214903	Marionette	DEBUG	Register listener.js for window 4294967297
+1514862214933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514862215464	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514862215464	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514862216173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514862216348	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1514862315793	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+I adapter
+1514862357583	Marionette	INFO	Listening on port 57428
+1514862358145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514862358214	Marionette	DEBUG	Register listener.js for window 4294967297
+1514862358233	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514862358776	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514862358777	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514862360327	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514862360423	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 17224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514862465504	geckodriver	INFO	geckodriver 0.19.1
+1514862465520	geckodriver	INFO	Listening on 127.0.0.1:57569
+1514862467593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wenhuifu\\AppData\\Local\\Temp\\rust_mozprofile.1ykLuQlLLWB8"
+1514862468631	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: Could not get a DXGI adapter
+1514862472123	Marionette	INFO	Listening on port 57575
+1514862472917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514862472981	Marionette	DEBUG	Register listener.js for window 4294967297
+1514862472999	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514862473540	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514862473540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514862474028	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1514862474164	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1514862728321	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 16480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\wenhuifu\AppData\Local\openvr\openvrpaths.vrpath
